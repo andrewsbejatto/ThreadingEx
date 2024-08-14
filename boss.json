@@ -1,0 +1,9 @@
+{
+	"name": "ThreadingEx",
+	"description": "Exceptions in Thread",
+	"version": "0.0.1",
+	"homepage": "https://github.com/andrewsbejatto/ThreadingEx",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {}
+}
